@@ -13,6 +13,6 @@ a {
 a:visited {
     color: palevioletred;
 }
-a:active {
+a:hover {
     color: purple;
 }
