@@ -12,4 +12,7 @@ a {
 }
 a:visited {
     color: palevioletred;
-  }
+}
+a:active {
+    color: purple;
+}
