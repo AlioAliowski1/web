@@ -4,4 +4,12 @@ body {
 
 h1 {
     text-align: center;
+} 
+a {
+    color: black;
+    font-family: Forte;
+    font-size: medium;
 }
+a:visited {
+    color: black;
+  }
