@@ -16,3 +16,7 @@ a:visited {
 a:hover {
     color: purple;
 }
+ul {
+    margin-left: auto;
+    text-align: center;
+}
