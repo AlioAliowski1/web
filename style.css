@@ -17,6 +17,6 @@ a:hover {
     color: purple;
 }
 ul {
-    margin-left: auto;
-    text-align: center;
+    margin-left: 10px;
+    margin-bottom: 800px;
 }
