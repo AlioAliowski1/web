@@ -12,5 +12,26 @@ h1{
 }
 p {
     color: rgb(43, 41, 41);
-    margin-left: 400px;
+    margin-left: 300px;
+}
+a {
+    font-family: Arial, Helvetica, sans-serif;
+    color: darkorchid;
+}
+#spis-tresci {
+    position: fixed;
+    left: 0;
+    top: 0;
+    height: 100vh;
+    width: 8%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 3rem;
+}
+#spis-tresci ul {
+    list-style-type: none;
+}
+#spis-tresci ul li {
+    margin-bottom: 1rem;
 }
