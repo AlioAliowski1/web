@@ -4,11 +4,21 @@ body {
 }
 h1 {
     text-align: center;
-    color: darkorchid
+    color: darkorchid;
+}
+a {
+    color: darkorchid;
+    font-family: Arial, Helvetica, sans-serif;
 }
 a:hover {
     color: darkorchid;
 }
 a:visited {
     color: darkorchid;
+}
+a:active {
+    color: darkorchid
+}
+:start {
+    margin-top: 250px;
 }
