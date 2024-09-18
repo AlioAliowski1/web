@@ -19,7 +19,8 @@ a:visited {
 a:active {
     color: darkorchid
 }
-:start {
-    margin-bottom: 400px;
-    margin-bottom: 400px;
+start {
+    margin-bottom: 100px;
+    margin-right: 200px;
+    font-family: Arial, Helvetica, sans-serif;
 }
