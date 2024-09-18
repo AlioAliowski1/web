@@ -6,3 +6,9 @@ h1 {
     text-align: center;
     color: darkorchid
 }
+a:hover {
+    color: darkorchid;
+}
+a:visited {
+    color: darkorchid;
+}
